@@ -1,7 +1,7 @@
 
 # Sketchpad-Application (Using Java)
 
-The sketchpad application allows the users to create common geometric shapes using mouse.
+![Standpickup logo](https://github.com/abhaymishra24/Sketchpad-Application/blob/main/Sketch-Pad.png)
 
 ## Work on progress-
 
