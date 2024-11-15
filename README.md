@@ -28,8 +28,8 @@ Sketchpad application programm given below implments methods of the following in
 
 ### Worked By - [Abhay Mishra 🧑‍💻]
 
-I worked and programmed this project in java programming language. I learned new thing in this project and teke some help from book and internet about this project. 
-
+I worked on and programmed this project in the Java programming language. 
+I learned new things while working on this project and took some help from books and the internet.
 ### Thank you for visit on this repository😊
 
 Feel free to explore my other repositories and reach out to me for collaborations or discussions on new idea and projects.🤝😊
