@@ -15,4 +15,18 @@ Sketchpad application programm given below implments methods of the following in
 4. Mouse motion listener
 5. Item listener
 
+### Objectives✍️
+
+- To draw various geometric shapes (Square, rectangle, circle)
+- To fill different colours in geometric shapes.
+- To make drawing with colours.
+- To demonstrate how to build a GUI application using the AWT package.
+
+### Tech Stack 
+
+- Java <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/>
+
+
+
+
 
