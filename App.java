@@ -183,14 +183,13 @@ void set_menu_items()
     Menu Ex = new Menu ("Extras");
     for (int i =0; i != extras_list.length; i++)
       Ex.add(extras_list[i]);
-    
+    mBar.add(Ex);
+    Ex.addActionListener(this);
+  setMenuBar(mBar); 
   }
 
-
-
-
-
-
 }
+
+
 
 
