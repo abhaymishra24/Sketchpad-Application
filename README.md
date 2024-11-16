@@ -26,6 +26,14 @@ Sketchpad application programm given below implments methods of the following in
 
 - Java <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/>
 
+### Project Showcase🚀(Screenshot of project)
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/b96f2c16-99c8-424f-8587-d4b09e82e606">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/6b7dc7cf-dc3e-4cda-af5d-7e1eeec03ea2">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/0bdafb3d-182d-468d-8095-9ec7bc323932">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/c00592ae-4771-47b4-a1f3-e3c67572705a">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/ac3811e8-3c52-4863-874c-91d42bdc964f">
+
 ### Worked By - [Abhay Mishra 🧑‍💻]
 
 I worked on and programmed this project in the Java programming language. 
@@ -34,8 +42,4 @@ I learned new things while working on this project and took some help from books
 
 Feel free to explore my other repositories and reach out to me for collaborations or discussions on new idea and projects.🤝😊🧑‍💻
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/b96f2c16-99c8-424f-8587-d4b09e82e606">
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/6b7dc7cf-dc3e-4cda-af5d-7e1eeec03ea2">
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/0bdafb3d-182d-468d-8095-9ec7bc323932">
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/c00592ae-4771-47b4-a1f3-e3c67572705a">
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/ac3811e8-3c52-4863-874c-91d42bdc964f">
+ 
