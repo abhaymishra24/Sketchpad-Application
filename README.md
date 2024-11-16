@@ -36,3 +36,4 @@ Feel free to explore my other repositories and reach out to me for collaboration
 
 
 
+<img width="217" alt="image" src="https://github.com/Rishit30G/personal-portfolio-new/assets/74411873/a344c3ac-8e50-4524-8735-1015a1178a06">
