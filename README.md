@@ -42,4 +42,4 @@ Feel free to explore my other repositories and reach out to me for collaboration
 ![Screenshot 2024-11-17 023020](https://github.com/user-attachments/assets/ac3811e8-3c52-4863-874c-91d42bdc964f)
 
 
-<img width="217" alt="image" src="https://github.com/Rishit30G/personal-portfolio-new/assets/74411873/a344c3ac-8e50-4524-8735-1015a1178a06">
+<img width="217" alt="image" src="https://github.com/user-attachments/assets/b96f2c16-99c8-424f-8587-d4b09e82e606">
