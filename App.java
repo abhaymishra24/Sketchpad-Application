@@ -1,6 +1,6 @@
 
-       import java.awt.*;
-import java.awt.event.*;
+  import java.awt.event.*;
+import java.awt.*;
 
 class sketch_pad extends Frame implements ActionListener,WindowListener,MouseListener,MouseMotionListener,ItemListener
 
@@ -190,6 +190,12 @@ void set_menu_items()
 
 }
 
-
-
+class Sk_pad 
+{
+    public static void main(String[] args) {
+        sketch_pad draw_win = new sketch_pad("Sketchpad in Java");
+        draw_win.setSize(700, 700);
+        draw_win.setVisible(true);
+    }
+}
 
