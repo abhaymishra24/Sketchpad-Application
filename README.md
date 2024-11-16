@@ -35,5 +35,11 @@ I learned new things while working on this project and took some help from books
 Feel free to explore my other repositories and reach out to me for collaborations or discussions on new idea and projects.🤝😊🧑‍💻
 
 
+![Screenshot 2024-11-17 022758](https://github.com/user-attachments/assets/b96f2c16-99c8-424f-8587-d4b09e82e606)
+![Screenshot 2024-11-17 022859](https://github.com/user-attachments/assets/6b7dc7cf-dc3e-4cda-af5d-7e1eeec03ea2)
+![Screenshot 2024-11-17 022951](https://github.com/user-attachments/assets/0bdafb3d-182d-468d-8095-9ec7bc323932)
+![Screenshot 2024-11-17 023007](https://github.com/user-attachments/assets/c00592ae-4771-47b4-a1f3-e3c67572705a)
+![Screenshot 2024-11-17 023020](https://github.com/user-attachments/assets/ac3811e8-3c52-4863-874c-91d42bdc964f)
+
 
 <img width="217" alt="image" src="https://github.com/Rishit30G/personal-portfolio-new/assets/74411873/a344c3ac-8e50-4524-8735-1015a1178a06">
