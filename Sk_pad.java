@@ -199,4 +199,3 @@ class Sk_pad
         draw_win.setVisible(true);
     }
 }
-
