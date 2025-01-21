@@ -4,7 +4,6 @@
 ![Standpickup logo](https://github.com/abhaymishra24/Sketchpad-Application/blob/main/Sketch-Pad.png)
 
 ### Project Descripton✍️
-
 In this project, the Sketchpad application allows users to create common geometric shapes using a mouse or cursor.
 In the Sketchpad application, we can create different shapes and diagrams.
 Sketchpad application programm given below implments methods of the following interfaces to perform sketching operations -
@@ -15,7 +14,7 @@ Sketchpad application programm given below implments methods of the following in
 4. Mouse motion listener
 5. Item listener
 
-### Objectives✍️
+### Objectives and work✍️
 
 - To draw various geometric shapes (Square, rectangle, circle)
 - To fill different colours in geometric shapes.
