@@ -6,7 +6,7 @@
 ### Project Descripton✍️
 In this project, the Sketchpad application allows users to create common geometric shapes using a mouse or cursor.
 In the Sketchpad application, we can create different shapes and diagrams.
-##### Sketchpad application programm given below implments methods of the following interfaces to perform sketching operations -
+Sketchpad application programm given below implments methods of the following interfaces to perform sketching operations -
 
 1. Action listener
 2. Window listener
