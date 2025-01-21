@@ -35,9 +35,8 @@ Sketchpad application programm given below implments methods of the following in
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/ac3811e8-3c52-4863-874c-91d42bdc964f">
 
 ### Worked By - [Abhay Mishra 🧑‍💻]
-
 I worked on and programmed this project in the Java programming language. 
 I learned new things while working on this project and took some help from books and the internet.
-### Thank you for visit on this repository😊
 
+### Thank you for visit on this repository😊
 Feel free to explore my other repositories and reach out to me for collaborations or discussions on new idea and projects.🤝😊🧑‍💻
